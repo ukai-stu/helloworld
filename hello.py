@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 
 
 def hello():
+    u"""helloテスト"""
     # logger.info(u"hello")
     logger.debug(u"hello world")
     # logger.warn(u"hello")
