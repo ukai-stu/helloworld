@@ -15,3 +15,7 @@ def hello():
     logger.debug(u"hello world")
     # logger.warn(u"hello")
     return True
+
+
+def test():
+    hello()
